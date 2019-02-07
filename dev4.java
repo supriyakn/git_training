@@ -2,7 +2,7 @@ public static void main()
 {
 	public class(string)
 	{
-		name=attributes;
+		name=attribute;
 		age=values;
 	}
 }
